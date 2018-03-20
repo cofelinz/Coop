@@ -7,13 +7,9 @@ import (
 	"time"
 
 	"BCSD/config"
-	"BCSD/node"
-	"BCSD/block"
 )
 
 type Service struct {
-	node_mgr	NodeMgr
-	block_mgr	BlockMgr
 }
 
 type Processor struct {
