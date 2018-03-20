@@ -1,4 +1,4 @@
-package simplenetwork
+package network
 
 import (
 	"os"
