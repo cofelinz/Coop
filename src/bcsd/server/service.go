@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	"BCSD/config"
+	"bcsd/config"
 )
 
 type Service struct {
